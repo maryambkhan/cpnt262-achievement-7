@@ -21,6 +21,9 @@
    - Cards
    - CallToAction
 - I have googled some card layouts for inspiration which i am going to bulid off.
+- I have added components and styled them already it was good process.
+- I wanted to add nice colors i tryied i hope it looks good too.
+- TODO fix the button and create array
 
 ### Attributions
 

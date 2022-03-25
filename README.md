@@ -24,6 +24,10 @@
 - I have added components and styled them already it was good process.
 - I wanted to add nice colors i tryied i hope it looks good too.
 - TODO fix the button and create array
-
+- Today we learn more about cards layout in class i have used one of those ways to do my cards
+  it is simple.
+- I created array and applyed condition on it it works good accept
+- I am having problem with rendring image maybe i have wrong path i am not sure yet 
 ### Attributions
 
+- [Pexel](https://www.pexels.com/search/cosmetics/)

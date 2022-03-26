@@ -34,7 +34,6 @@ const cards = [
     title: "Lipstic",
     info: "Lorem Ipsum is simply dummy text ",
     price: "$60",
-    size: "",
     image : require(`./assets/images/blush.jpeg`),
   },
 

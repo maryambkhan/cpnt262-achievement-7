@@ -1,5 +1,5 @@
 <template>
-  <h1 class="flex justify-center font-semibold text-lg">
-    
-  </h1>
+  <h3 class="font-bold text-lg text-red-900">
+    <slot></slot>
+  </h3>
 </template>

@@ -28,6 +28,16 @@
   it is simple.
 - I created array and applyed condition on it it works good accept
 - I am having problem with rendring image maybe i have wrong path i am not sure yet 
+- Finaly solved all the problems well almost
+- I had problem whit components the css was not appling on it . i had wrong for few component calling on page.
+- Then i had problem with image not rendring on page. i had wrong path for it i fixed that.
+- I had good learning experince overall 
+- Learnend new things and practiced some more the things i new
+- Slots are realy intresting things .
+- I tried to apply background color on page but it do not apply on whole page i am not sure  why i googled some stuff
+ but did not find any thing.It was just telling me to apply it on body.
+- I applyed bg color via vanila css it all worked out
+ 
 ### Attributions
 
 - [Pexel](https://www.pexels.com/search/cosmetics/)

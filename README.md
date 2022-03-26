@@ -37,6 +37,8 @@
 - I tried to apply background color on page but it do not apply on whole page i am not sure  why i googled some stuff
  but did not find any thing.It was just telling me to apply it on body.
 - I applyed bg color via vanila css it all worked out
+- So i used conditional v-if on one of the element and its not giving an error it just printing the
+ data what its there that i dont i understand.
  
 ### Attributions
 
